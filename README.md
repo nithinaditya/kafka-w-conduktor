@@ -2,8 +2,6 @@
 
 * A simple event-driven system that will allow us to send messages to kafka and then consume them
 
-<img src="./diagram.png" width="500px" />
-
 ## Housekeeping
 ### You will need
 1. Docker
